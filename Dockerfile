@@ -1,4 +1,4 @@
-FROM       azul/zulu-openjdk:8
+FROM       azul/zulu-openjdk-centos
 MAINTAINER Alex Breyman <a@breyman.ru>
 
 VOLUME ["/data"]
